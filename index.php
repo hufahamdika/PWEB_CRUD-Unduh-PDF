@@ -5,7 +5,8 @@
 </head>
 <body>
 	<h1>Data Siswa</h1>
-	<a href="form_simpan.php">Tambah Data</a><br><br>
+	<a href="form_simpan.php">Tambah Data</a>
+	<a href="proses-unduh-pdf.php">Unduh PDF</a><br><br>
 	<table border="1" width="100%">
 	<tr>
 		<th>Foto</th>
